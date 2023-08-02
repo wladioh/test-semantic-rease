@@ -51,7 +51,8 @@
       ]
     ],
     "branches": [
-      "main"
+      "main",
+      "release/v+[0-9]*"
     ]
   }
 }
