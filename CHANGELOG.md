@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/wladioh/test-semantic-rease/compare/v1.2.0...v1.2.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* **hotfix:** corrigido um bug ([34620cd](https://github.com/wladioh/test-semantic-rease/commit/34620cd50f27e3611d0a8a5b937223a71cc853b7))
+
 # [1.2.0](https://github.com/wladioh/test-semantic-rease/compare/v1.1.0...v1.2.0) (2023-08-02)
 
 
