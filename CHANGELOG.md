@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wladioh/test-semantic-rease/compare/v1.1.0...v1.2.0) (2023-08-02)
+
+
+### Features
+
+* break change ([07bef1b](https://github.com/wladioh/test-semantic-rease/commit/07bef1b76fdc4e88a979ad56f786f5c09e75f931))
+
 # [1.1.0](https://github.com/wladioh/test-semantic-rease/compare/v1.0.0...v1.1.0) (2023-08-02)
 
 
