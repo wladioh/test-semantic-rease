@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/wladioh/test-semantic-rease/compare/v2.0.1...v2.1.0) (2023-08-02)
+
+
+### Features
+
+* new feat ([11ce398](https://github.com/wladioh/test-semantic-rease/commit/11ce3985093de277827d32a38e2dfaf1bbf15858))
+* other feat ([78c5583](https://github.com/wladioh/test-semantic-rease/commit/78c55830308db19e016c6e95415e6a0956b99798))
+
 ## [2.0.1](https://github.com/wladioh/test-semantic-rease/compare/v2.0.0...v2.0.1) (2023-08-02)
 
 
