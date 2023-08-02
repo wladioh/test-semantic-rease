@@ -52,7 +52,10 @@
     ],
     "branches": [
       "main",
-      "release/v+[0-9]*"
+      {
+        "name": "release/*",
+        "prerelease": false
+      }
     ]
   }
 }
