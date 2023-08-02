@@ -4,3 +4,4 @@ BreakChange
 break change
 hotfix
 feat
+OtherFeat
