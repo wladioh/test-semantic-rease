@@ -35,7 +35,7 @@
       [
         "@semantic-release/exec",
         {
-          "prepareCmd": "sed 's/\"app_version\".*/\"app_version\":\"${nextRelease.version}\"/' src/configuration.json > configuration.json"
+          "prepareCmd": "echo ${nextRelease.version}"
         }
       ],
       [
