@@ -26,6 +26,8 @@
     }
   },
   "release": {
+    "mangle": false,
+    "headerIds": false,
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
