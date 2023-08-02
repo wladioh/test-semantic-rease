@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/wladioh/test-semantic-rease/compare/v1.2.0...v2.0.0) (2023-08-02)
+
+
+### Performance Improvements
+
+* removido suporte ao v1 ([0085930](https://github.com/wladioh/test-semantic-rease/commit/00859304e7e6b8c57c7a4ba8bf0323f3db70750f))
+
+
+### BREAKING CHANGES
+
+* teste
+
 # [1.2.0](https://github.com/wladioh/test-semantic-rease/compare/v1.1.0...v1.2.0) (2023-08-02)
 
 
